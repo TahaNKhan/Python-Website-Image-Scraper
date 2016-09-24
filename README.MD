@@ -1,5 +1,8 @@
 # Python Website Image Scraper
-## Use
+
+Downloads images from specified websites and saves them into "images" folder
+
+## How To Use
 * Run 'python3 downloadImages.py \<website\>' from a command line.
 * Either enter a URL like twitter.com or http://twitter.com, both work.
 
